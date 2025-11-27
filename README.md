@@ -1,1 +1,6 @@
-# build-a-title-case-converter
+## 🧠 About This Project
+
+I created this project as part of the [FreeCodeCamp](https://www.freecodecamp.org) program — **Build a Title Case Converter**. 
+I used JavaScript to complete it.
+
+Next step.. ⏳
